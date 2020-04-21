@@ -1,6 +1,6 @@
-# Ola Mundo
- Primeiro repositório do curso de Git e GitHub
+# Hello world
+First repository from the Git and GitHub course
 
-Repositório criado durante uma aula ao vivo!
+Repository created during a live class!
 
-Essa linha eu adicionei diretamente no site!
+I added this line directly on the website!
